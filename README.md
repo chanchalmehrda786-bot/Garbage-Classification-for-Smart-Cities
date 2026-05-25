@@ -1,10 +1,12 @@
 📌 Project Overview
+
 Garbage Classification for Smart Cities is an AI-powered waste management system designed to automatically detect and classify waste into different categories such as Biodegradable and Non-Biodegradable.
 The project helps smart cities improve waste segregation, recycling efficiency, and environmental sustainability using Deep Learning and Computer Vision technologies.
 
 This system can classify waste images in real-time using a trained deep learning model and provides an interactive dashboard for monitoring waste management activities.
 
 🚀 Features
+
 ✅ AI-based garbage classification
 ✅ Real-time image prediction
 ✅ Live camera waste detection
