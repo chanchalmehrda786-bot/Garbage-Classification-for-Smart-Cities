@@ -102,6 +102,7 @@ Monitor waste management performance.
 Track fill levels of smart bins.
 
 🌍 Smart City Benefits
+
 Improves waste segregation
 Reduces manual effort
 Supports recycling systems
@@ -110,6 +111,7 @@ Helps municipalities manage waste efficiently
 Promotes sustainable urban development
 
 📈 Future Improvements
+
 IoT Smart Bin Integration
 GPS-enabled waste tracking
 Mobile application support
@@ -118,7 +120,9 @@ Multi-class waste detection
 AI-powered route optimization
 
 👨‍💻 Author
+
 Chanchal
 
 ⭐ Conclusion
+
 The Garbage Classification for Smart Cities project demonstrates how Artificial Intelligence can help build cleaner, smarter, and more sustainable cities by automating waste classification and monitoring systems.
